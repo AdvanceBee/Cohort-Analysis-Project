@@ -1,1 +1,1 @@
-# Cohort-Analysis-Project
+This repository focuses on cohort analysis of e-commerce data to uncover customer retention patterns, behavior trends, and churn rates. By leveraging Python libraries like Pandas, NumPy, and Seaborn, the project provides actionable insights to enhance customer loyalty and optimize business strategies. The analysis features visualizations, retention metrics, and suggestions for enhancing engagement in the competitive e-commerce landscape.
